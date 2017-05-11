@@ -1,1 +1,3 @@
 Hello, this is my test repository for me to learn to use GIT/Github!
+
+Change 1: Edited the readme file, with well, this sentence...
