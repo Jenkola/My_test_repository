@@ -2,6 +2,11 @@
 
 (function(root) {
 
-	console.log(root);
+	var myParagraph = document.createElement('p');
+	myParagraph.textContent = 'Yo sup, I created this paragraph.';
+
+	var mainDiv = document.getElementById('main');
+
+	mainDiv.appendChild(myParagraph);
 
 })(this)
